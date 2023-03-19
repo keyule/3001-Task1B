@@ -130,15 +130,15 @@ spec:
 
 - `kubectl get ingress`
 
-![Task 1.6 Verify Ingress](https://github.com/keyule/3001-Task1B/blob/main/Report/Screenshots/1.5VerifyService2.png?raw=true)
+![Task 1.6 Verify Ingress](https://github.com/keyule/3001-Task1B/blob/main/Report/Screenshots/1.6VerifyIngress.png?raw=true)
 
 #### Done!
 
-- Task 1A should be rendered on `http://localhost/app/` [^1]
+- Task 1A should be rendered on `http://localhost/app/`
 
-![Local Host](https://github.com/keyule/3001-Task1B/blob/main/Report/Screenshots/1.5VerifyService2.png?raw=true)
+![Local Host](https://github.com/keyule/3001-Task1B/blob/main/Report/Screenshots/final.png?raw=true)
 
-[^1] *Note: Only works with the extra `/` at the end. I have no idea why. Its most probably how I set up my rules in ingress object. If I remove the `/app` and set my rule as just `/?(.*)` it would work if i visit localhost.   
+!*Note: Only works with the extra `/` at the end. I have no idea why. Its most probably how I set up my rules in ingress object. If I remove the `/app` and set my rule as just `/?(.*)` it would work if i visit localhost.* 
 
 ### Appendix 
 
