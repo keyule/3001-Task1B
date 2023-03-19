@@ -138,7 +138,7 @@ spec:
 
 ![Local Host](https://github.com/keyule/3001-Task1B/blob/main/Report/Screenshots/final.png?raw=true)
 
-!*Note: Only works with the extra `/` at the end. I have no idea why. Its most probably how I set up my rules in ingress object. If I remove the `/app` and set my rule as just `/?(.*)` it would work if i visit localhost.* 
+> *Note: Only works with the extra `/` at the end. I have no idea why. Its most probably how I set up my rules in ingress object. If I remove the `/app` and set my rule as just `/?(.*)` it would work if i visit localhost.* 
 
 ### Appendix 
 
