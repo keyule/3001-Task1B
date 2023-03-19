@@ -1,5 +1,5 @@
 
-# Place your commands here
+# this first line just prints a banner 
 
 base64 -d <<<"H4sIAAAAAAAAA9NThgI9IIBSejARmKienh6cAVfPy4UsCaSh0pg8iCYEV1kZRS9cCsUiOEdPD7de
 JBMQblZG0orHzcpwURQfkGgvdv+S7GYUCbAgkpt5uXTJBwCpuiaj4QEAAA==" | gunzip
