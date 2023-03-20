@@ -1,4 +1,22 @@
 # TIC3001 Task1B
+## Report
+
+* [Report](Report/report.md)
+
+## Video
+
+![gif](Report/Video/edemo.gif)
+
+.mp4 and .webm located [here](Report/Video)
+Video was made using [VHS](https://github.com/charmbracelet/vhs)
+
+## Test
+1. `git clone https://github.com/keyule/3001-Task1B.git`
+2. `cd 3001-Task1B`
+3. `chmod +x one-click.sh`
+4. `./one-click.sh`
+
+## Given Instructions
 Task1B is split into 3 parts.
 
 Clone the repository
