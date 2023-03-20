@@ -1,4 +1,4 @@
-# TIC3001 Task 1A
+# TIC3001 Task 1B
 - Name: Ke Yule
 - Student Number: A0211495H E0493826
 - Github: https://github.com/keyule/3001-Task1B
