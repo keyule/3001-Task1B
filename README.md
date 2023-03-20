@@ -7,7 +7,7 @@
 
 ![gif](Report/Video/edemo.gif)
 
-.mp4 and .webm located [here](Report/Video)
+.mp4 and .webm located [here](Report/Video)  
 Video was made using [VHS](https://github.com/charmbracelet/vhs)
 
 ## Test
